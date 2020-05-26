@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/a-react-material-ui-library/demo/static/css/main.d5f91abe.chunk.css",
+    "main.js": "/a-react-material-ui-library/demo/static/js/main.814da04a.chunk.js",
+    "main.js.map": "/a-react-material-ui-library/demo/static/js/main.814da04a.chunk.js.map",
+    "runtime-main.js": "/a-react-material-ui-library/demo/static/js/runtime-main.7cd861b0.js",
+    "runtime-main.js.map": "/a-react-material-ui-library/demo/static/js/runtime-main.7cd861b0.js.map",
+    "static/js/2.6f1b6dd0.chunk.js": "/a-react-material-ui-library/demo/static/js/2.6f1b6dd0.chunk.js",
+    "static/js/2.6f1b6dd0.chunk.js.map": "/a-react-material-ui-library/demo/static/js/2.6f1b6dd0.chunk.js.map",
+    "index.html": "/a-react-material-ui-library/demo/index.html",
+    "precache-manifest.9dc6a9887e32fff0f1c02acdbfc70dbc.js": "/a-react-material-ui-library/demo/precache-manifest.9dc6a9887e32fff0f1c02acdbfc70dbc.js",
+    "service-worker.js": "/a-react-material-ui-library/demo/service-worker.js",
+    "static/css/main.d5f91abe.chunk.css.map": "/a-react-material-ui-library/demo/static/css/main.d5f91abe.chunk.css.map",
+    "static/js/2.6f1b6dd0.chunk.js.LICENSE.txt": "/a-react-material-ui-library/demo/static/js/2.6f1b6dd0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cd861b0.js",
+    "static/js/2.6f1b6dd0.chunk.js",
+    "static/css/main.d5f91abe.chunk.css",
+    "static/js/main.814da04a.chunk.js"
+  ]
+}
