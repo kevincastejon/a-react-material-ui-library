@@ -1,11 +1,11 @@
-# a-react-library
+# a-react-material-ui-library
 
-![npm_version](https://img.shields.io/npm/v/a-react-library)
-![license](https://img.shields.io/npm/l/a-react-library)
+![npm_version](https://img.shields.io/npm/v/a-react-material-ui-library)
+![license](https://img.shields.io/npm/l/a-react-material-ui-library)
 
-A placeholder for making open source react components/library
+A placeholder for making open source react material-ui components/library
 
-<!-- ![a-react-library preview](https://my-social-preview-image-url) -->
+<!-- ![a-react-material-ui-library preview](https://my-social-preview-image-url) -->
 
 -----
 
@@ -20,16 +20,16 @@ A placeholder for making open source react components/library
 <a name="overview"></a>
 ## Overview
 
-- [Documentation](https://kevincastejon.github.io/a-react-library/)
-- [Quick demo](https://kevincastejon.github.io/a-react-library/demo)
-- [Storybook playground](https://kevincastejon.github.io/a-react-library/storybook)
-- [NPM](https://www.npmjs.com/package/a-react-library)
-- [Github](https://github.com/kevincastejon/a-react-library.git)
+- [Documentation](https://kevincastejon.github.io/a-react-material-ui-library/)
+- [Quick demo](https://kevincastejon.github.io/a-react-material-ui-library/demo)
+- [Storybook playground](https://kevincastejon.github.io/a-react-material-ui-library/storybook)
+- [NPM](https://www.npmjs.com/package/a-react-material-ui-library)
+- [Github](https://github.com/kevincastejon/a-react-material-ui-library.git)
 
 <a name="install"></a>
 ## Installation
 ```bash
-npm install a-react-library
+npm install a-react-material-ui-library
 ```
 
 <a name="usage"></a>
